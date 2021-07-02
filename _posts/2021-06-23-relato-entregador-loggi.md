@@ -14,5 +14,5 @@ Eu o provoquei se os entregadores não tinham algum mecanismo de união, como co
 
 ## Leituras:
 
-1. [O desenvolvimento do subdesenvolvimento]({{ site.url }}/assets/dialetica-dependencia-marini.pdf), de André Gunder Frank (1966).
-2. [Dialética da Dependência]({{ site.url }}/assets/desenvolvimento-subdesenvolvimento-gunder-frank.pdf), de Ruy Mauro Marini (1973).
+1. [O desenvolvimento do subdesenvolvimento]({{ site.url }}/assets/pdf/dialetica-dependencia-marini.pdf), de André Gunder Frank (1966).
+2. [Dialética da Dependência]({{ site.url }}/assets/pdf/desenvolvimento-subdesenvolvimento-gunder-frank.pdf), de Ruy Mauro Marini (1973).
