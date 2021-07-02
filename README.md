@@ -3,4 +3,4 @@ Todos os ensaios encontrados aqui estão em perpétua mudança. Alguns mais expl
 1. Preservar o fluxo constante de aprendizado acumulado.
 2. Registrar os principais pontos de mudança de ideia, em especial os erros.
 
-Que esse seja um espaço da crítica. Eu te convido a colaborar.
+Que este seja um espaço de construção do socialismo.

@@ -1,8 +1,8 @@
 ---
-layout:  post
+layout:  posts
 title:   "Breve relato da face moderna da superexploração da força de trabalho"
-authors: "Artur Rodrigues"
-date:    2021-06-23 00:00:00 -0300
+author:  "Artur Rodrigues"
+date:    "23/06/2021"
 tags:    política dependência superexploração
 ---
 

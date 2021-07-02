@@ -1,8 +1,8 @@
 ---
 layout:  posts
 title:   "Recordações da vida íntima de Karl Marx"
-authors: "Paul Lafargue, com adaptação de Artur Rodrigues"
-date:    2021-06-14 00:00:00 -0300
+author:  "Paul Lafargue, com adaptação de Artur Rodrigues"
+date:    "14/06/2021"
 tags:    marx
 ---
 

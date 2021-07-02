@@ -1,8 +1,8 @@
 ---
 layout:  posts
 title:   "O PDT e a infidelidade partidária"
-authors: "Artur Rodrigues, com informações de Wendel Pinheiro, membro do Diretório Nacional do PDT"
-date:    2021-06-05 00:00:00 -0300
+author:  "Artur Rodrigues, com informações de Wendel Pinheiro, membro do Diretório Nacional do PDT"
+date:    "05/06/2021"
 tags:    PDT política
 ---
 
