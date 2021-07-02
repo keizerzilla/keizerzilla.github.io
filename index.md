@@ -5,8 +5,6 @@ title: Textos
 
 ## "EM CONSTRUÇÃO... 🚧"
 
-### Textos
-
 <ul>
     {% for post in site.posts %}
     <li>
