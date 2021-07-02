@@ -1,5 +1,5 @@
 ---
-layout:  default
+layout:  post
 title:   "Breve relato da face moderna da superexploração da força de trabalho"
 authors: "Artur Rodrigues"
 date:    2021-06-23 00:00:00 -0300

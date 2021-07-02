@@ -1,5 +1,5 @@
 ---
-layout:  default
+layout:  post
 title:   "Sobre Cuba"
 authors: "Álvaro Nascimento"
 date:    2021-06-09 00:00:00 -0300

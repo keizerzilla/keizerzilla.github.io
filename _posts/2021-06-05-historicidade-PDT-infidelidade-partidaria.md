@@ -1,5 +1,5 @@
 ---
-layout:  default
+layout:  post
 title:   "Historicidade do PDT com relação a casos de infidelidade partidária"
 authors: "Artur Rodrigues, com informações de Wendel Pinheiro, membro do Diretório Nacional do PDT"
 date:    2021-06-05 00:00:00 -0300

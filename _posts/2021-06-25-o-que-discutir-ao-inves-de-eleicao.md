@@ -1,5 +1,5 @@
 ---
-layout:  default
+layout:  post
 title:   "O que discutir ao invês de eleição"
 authors: "Artur Rodrigues, com sugestões do diretório do PCB e das Brigadas Populares"
 date:    2021-06-12 00:00:00 -0300

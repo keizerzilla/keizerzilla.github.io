@@ -1,5 +1,5 @@
 ---
-layout:  default
+layout:  post
 title:   "Elementos da Filosofia Crítica"
 authors: "Artur Rodrigues"
 date:    2021-06-07 00:00:00 -0300
