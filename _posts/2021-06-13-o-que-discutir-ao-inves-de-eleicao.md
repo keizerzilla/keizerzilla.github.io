@@ -1,10 +1,13 @@
 ---
-layout:  posts
-title:   "O que discutir ao invês de eleição"
-author:  "Artur Rodrigues, com sugestões do diretório do PCB e das Brigadas Populares"
-date:    "12/06/2021"
+layout:  post
+title:   O que discutir ao invês de eleição
+author:  Artur Rodrigues (com sugestões do PCB e das Brigadas Populares)
 tags:    política eleitorialismo
 ---
+
+Há um pouco mais de 14 meses do pleito de 2022, amplos setores da esquerda optam pelo que eu considero ser uma perda de energia política: discutir pesquisas de intenção de voto. Com o cenário social pautado pela crise capitalista, por sua vez intensificada pela crise sanitária da pandemia, e com a atuação exemplar do parlamento em aprovar todas as reformas ultra-liberais de Paulo Guedes, conjecturar sobre um cenário eleitoral distante, sem se ater à materilidade dos fatos, deixa claro o aprofundamento da falsa consciência da oposição.
+
+Listo a seguir alguns pontos de debate que eu julgo serem mais importantes e de maior impacto dada a presente conjuntura brasileira. Alguns desses pontos foram reproduzidos ou adaptados de sugestões vindas de listas e artigos de análise de conjuntura de outros atores políticos de esquerda, em especial do PCB e das Brigadas Populares.
 
 1) A nacionalização dos setores estratégicos da economia brasileira, tais como: setor de petróleo e gás, setor elétrico e setor de mineração, além da reconstrução de suas respectivas cadeias de suprimentos.
 

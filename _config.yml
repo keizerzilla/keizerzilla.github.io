@@ -1,6 +1,11 @@
-title: Textos
+title: Textos (por Artur Rodrigues)
+name: Textos (por Artur Rodrigues)
+author: Artur Rodrigues
 email: keizerzilla@gmail.com
 description: O mais perto de um blog.
 url: "https://keizerzilla.github.io"
-baseurl: ""
+baseurl: "/"
 timezone: America/Fortaleza
+
+plugins:
+    - jekyll-feed

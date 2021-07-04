@@ -5,27 +5,53 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>{{ page.title }}</title>
-		<link rel="stylesheet" href="/assets/css/bootstrap.css">
+		
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+		<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+		
+		<style type="text/css">
+			body {
+				background-color: #151515;
+				color: #EEEEEE;
+			}
+			
+			a {
+				color: #EE00EE;
+			}
+			
+			.content-space {
+				background-color: #333333;
+				font-size: 22px;
+				border: 2px solid #333333;
+			}
+			
+			.bottom-page {
+				background-color: #555555;
+			}
+		</style>
 	</head>
 	
 	<body>
-		<div class="container-fluid w-50">
-			<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-				<ul class="navbar-nav">
-					<li class="nav-item">
-						<a class="navbar-brand nav-link" href={{ site.url }}>Início</a>
-					</li>
-				</ul>
+		<div class="container">
+			<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+				<a class="navbar-brand btn" href={{ site.url }}><img src="/assets/favicon.ico" width="32" height="32" alt="favicon"></a>
+				<div class="ms-auto">
+					<a class="navbar-brand btn" href="/sobre.html"><i class="bi bi-file-earmark-person"></i> Sobre</a>
+					<a class="navbar-brand btn" href="https://github.com/keizerzilla/" target="_blank"><i class="bi bi-terminal"></i> GitHub</a>
+					<a class="navbar-brand btn" href="/feed.xml" target="_blank"><i class="bi bi-rss"></i> RSS</a>
+				</div>
 			</nav>
 			
-			<div class="container">
-				<h1>{{ page.title }}</h1>
+			<div class="content-space p-4">
 				{{ content }}
 			</div>
+			
+			<footer class="container bottom-page p-3 center">
+				<a class="navbar-brand btn" href="/feed.xml" target="_blank"><i class="bi bi-rss"></i> RSS</a>
+			</footer>
 		</div>
-		
-		<footer>
-		</footer>
   </body>
   
 </html>

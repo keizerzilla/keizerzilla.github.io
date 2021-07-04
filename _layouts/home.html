@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<style type="text/css">
+	h2 {
+		color: #FFFFFF;
+	}
+	
+	.post-preview {
+		border: 4px solid #888888;
+		border-radius: 2px;
+	}
+</style>
+
+{% for post in site.posts %}
+<div class="post-preview p-3 mt-3">
+	<h2>{{ post.title }}</h2>
+	<p>{{ post.date | date_to_string }} - {{ post.author }}</p>
+	<hr>
+	
+	{{ post.excerpt }}
+	
+	<a class="btn btn-outline-light" href="{{ post.url }}"><i class="bi bi-file-text-fill"></i> Ler mais</a>
+</div>
+{% endfor %}
+
+{{ content }}

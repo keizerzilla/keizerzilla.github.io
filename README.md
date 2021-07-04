@@ -1,6 +1,3 @@
-Todos os ensaios encontrados aqui estão em perpétua mudança. Alguns mais explicitamente que outros, pois é comum encontrar textos inacabados. A escolha por guardá-los num lugar que salva a memória de cada mudança ocorrida tem motivação dupla:
+Este blog é o meu espaço na internet para escrever sobre outros temas que também são do meu interesse: política, economia e sociedade, sempre através do prisma da tradição crítica latino-americana. Todos os ensaios encontrados aqui estão em perpétua mudança, alguns mais explicitamente que outros; é comum encontrar textos inacabados. A escolha por guardá-los num lugar que salva a memória de cada mudança ocorrida tem dupla motivação: preservar o fluxo constante de aprendizado acumulado e registrar os principais pontos de mudança de ideia, em especial os erros.
 
-1. Preservar o fluxo constante de aprendizado acumulado.
-2. Registrar os principais pontos de mudança de ideia, em especial os erros.
-
-Que este seja um espaço de construção do socialismo.
+O objetivo deste blog é servir de espaço de debate e construção do socialismo.

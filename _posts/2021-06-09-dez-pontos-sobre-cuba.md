@@ -1,8 +1,7 @@
 ---
-layout:  posts
-title:   "10 pontos sobre Cuba"
-author:  "Álvaro Nascimento"
-date:    "09/06/2021"
+layout:  post
+title:   10 pontos sobre Cuba
+author:  Álvaro Nascimento
 tags:    cuba política revolução
 ---
 

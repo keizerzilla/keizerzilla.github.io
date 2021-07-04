@@ -1,12 +1,13 @@
 ---
-layout:  posts
-title:   "O PDT e a infidelidade partidária"
-author:  "Artur Rodrigues, com informações de Wendel Pinheiro, membro do Diretório Nacional do PDT"
-date:    "05/06/2021"
+layout:  post
+title:   O PDT e a infidelidade partidária
+author:  Artur Rodrigues (com informações de Wendel Pinheiro, membro do Diretório Nacional do PDT)
 tags:    PDT política
 ---
 
-O histórico do PDT em defesa de sua visão doutrinária e sua ortodoxia partidária em relação a quadros infiéis às deliberações do partido:
+O PDT é um partido tradicional que iniciou sua trajetória política como herdeiro oficial do antigo PTB de Vargas e consolidado em torno da figura de Brizola. Por muito tempo o partido foi conhecido como defensor profundo de sua ideologia, e tal comportamento se reflete no trato com infidelidades de quadros internos.
+
+Compilo aqui uma pequena, porém expressiva, lista com um panorama geral do histórico do PDT em defesa de sua visão doutrinária e sua ortodoxia partidária em relação a quadros infiéis às deliberações do partido, de 1984 até o presente momento.
 
 - `1984`: Nas Diretas Já, Agnaldo Timóteo vota em Maluf e é sumariamente expulso em seguida.
 - `1985`: Contrariando as deliberações do Governo Brizola no Rio de Janeiro, Sebastião Nery é expulso.
