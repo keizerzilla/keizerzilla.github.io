@@ -21,6 +21,10 @@
 				color: #EE00EE;
 			}
 			
+			p {
+				padding: 8px;
+			}
+			
 			.content-space {
 				background-color: #333333;
 				font-size: 22px;
@@ -34,12 +38,12 @@
 	</head>
 	
 	<body>
-		<div class="container">
+		<div class="container-lg">
 			<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
 				<a class="navbar-brand btn" href={{ site.url }}><img src="/assets/favicon.ico" width="32" height="32" alt="favicon"></a>
 				<div class="ms-auto">
 					<a class="navbar-brand btn" href="/sobre.html"><i class="bi bi-file-earmark-person"></i> Sobre</a>
-					<a class="navbar-brand btn" href="https://github.com/keizerzilla/" target="_blank"><i class="bi bi-terminal"></i> GitHub</a>
+					<a class="navbar-brand btn" href="https://github.com/keizerzilla/" target="_blank"><i class="bi bi-github"></i> GitHub</a>
 					<a class="navbar-brand btn" href="/feed.xml" target="_blank"><i class="bi bi-rss"></i> RSS</a>
 				</div>
 			</nav>
@@ -48,7 +52,7 @@
 				{{ content }}
 			</div>
 			
-			<footer class="container bottom-page p-3 center">
+			<footer class="bottom-page p-3">
 				<a class="navbar-brand btn" href="/feed.xml" target="_blank"><i class="bi bi-rss"></i> RSS</a>
 			</footer>
 		</div>
