@@ -29,4 +29,4 @@ Listo a seguir alguns pontos de debate que eu julgo serem mais importantes e de 
 
 10) A aplicação de uma nova doutrina de Estado para as Forças Armadas.
 
-11) Programa de reestruturação urbana: regulamentação de aluguéis, planinficação das áreas habitáveis e não-habitáveis, investimento na malha de transporte público, programas de garantia de saneamento básico, etc.
+11) Um programa de reestruturação urbana pautado pela regulamentação de aluguéis, planinficação das áreas habitáveis e não-habitáveis, investimento na malha de transporte público e programas de garantia de saneamento básico.
