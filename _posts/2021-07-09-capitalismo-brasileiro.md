@@ -29,6 +29,12 @@ Não pretendemos respondê-las de maneira sequencial tal como foram formuladas. 
 
 Fazer...
 
+# O Brasil e o exterior
+
+Fazer...
+
+A relação entre os fatores internos e os externos explica os rumos e o papel do capitalismo brasileiro.
+
 # Os períodos recentes
 
 Fazer...
@@ -36,12 +42,6 @@ Fazer...
 - 1930 ~ 1964: Pré-64
 - 1964 ~ 1985: Ditadura civil-militar
 - 1985 ~ Hoje: Rentismo
-
-# O Brasil e o exterior
-
-Fazer...
-
-A relação entre os fatores internos e os externos explica os rumos e o papel do capitalismo brasileiro.
 
 # A Era Vargas
 
@@ -93,5 +93,9 @@ Fazer...
 Fazer...
 
 # O rentismo
+
+Fazer...
+
+# Considerações finais
 
 Fazer...
